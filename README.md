@@ -1,4 +1,4 @@
-# AI-Powered Quiz Generation System
+# Class Intelligence Quiz (AI - Powered)
 
 An **end-to-end AI system** that automatically generates high-quality **multiple-choice quizzes** from educational documents using **Retrieval-Augmented Generation (RAG)**, **schema validation**, and **human-in-the-loop review**.
 
