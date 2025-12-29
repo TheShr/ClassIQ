@@ -1,0 +1,24 @@
+streamlit==1.41.1
+
+# Core
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+
+# Backend & DB
+pymongo>=4.6
+python-dotenv>=1.0
+requests>=2.31
+
+# AI / LLM
+openai>=1.12.0
+
+# UI / Viz
+plotly>=5.20
+
+# Security
+bcrypt>=4.1
+
+# Docs
+PyPDF2>=3.0
+python-docx>=1.1
